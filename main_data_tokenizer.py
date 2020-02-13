@@ -1,6 +1,6 @@
 # written by Xiaohui Zhao
 # 2018-02
-# xiaohui.zhao@accenture.com
+# xh.zhao@outlook.com
 import tensorflow as tf
 import argparse
 
